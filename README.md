@@ -12,4 +12,4 @@ Although there are no strict restrictions on who merges what and when (for now),
 
 ## License
 
-Undecided, either LGPL or BSD-3.
+Code contributed into this repository is licensed under BSD-3, but some upstream go-ethereum dependencies might be LGPL. Long term our goal is to fully sanitize the license, but we don't have immediate plans to relicense go-ethereum until it's clear which parts are actually needed in Ethereum 2.0.
